@@ -30,8 +30,8 @@ Name Project build for new developer and free template
 
 **🛠 Get Start**  
 
-[Download Template]    
-[View Source Code]
+[Download Template](https://github.com/li1Carr0t/CarrotTemplate/releases/tag/1.0.0)
+[View Source Code](https://github.com/li1Carr0t/CarrotTemplate/blob/main/README.md?plain=1)
 
 ---
 
