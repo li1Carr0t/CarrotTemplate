@@ -22,8 +22,8 @@ Name Project build for new developer and free template
 
 **👩🏻‍💻 About**
 
-👤 Name  : **Carrot**    
-🖥 Role  : **Developer**    
+👤 Name : **Carrot**    
+🖥 Role : **Developer**    
 ⌨️ Skill : **Lua & Roblox Script**
 
 ---
